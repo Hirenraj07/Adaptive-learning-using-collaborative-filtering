@@ -1,0 +1,456 @@
+{
+    "title": "Beginner Coding Course",
+    "subject": "Coding",
+    "difficulty": "beginner",
+    "current_score": 0,
+    "target_score": 20,
+    "generated_date": "2025-03-22",
+    "duration_weeks": 4,
+    "session_length_minutes": 30,
+    "sessions_per_week": 3,
+    "overview": "This personalized course is designed to improve your Coding skills from a current score of 0 to a target of 20. The beginner level curriculum focuses on building a solid foundation with gradual progression.",
+    "modules": [
+        {
+            "module_id": 1,
+            "title": "Programming Fundamentals",
+            "description": "Learn the essential components of Programming Fundamentals with a focus on building a solid foundation.",
+            "duration_days": 7,
+            "lessons": [
+                {
+                    "lesson_id": 1,
+                    "title": "Lesson 1: Introduction to Programming Fundamentals",
+                    "duration_minutes": 30,
+                    "content_summary": "This lesson covers key aspects of Programming Fundamentals with focus on fundamental definitions and basic principles.",
+                    "activities": [
+                        {
+                            "type": "video_tutorial",
+                            "title": "Understanding fundamental definitions and basic principles",
+                            "duration_minutes": 10
+                        },
+                        {
+                            "type": "interactive_exercise",
+                            "title": "Practice with fundamental definitions and basic principles",
+                            "problems": 5,
+                            "difficulty": "beginner"
+                        },
+                        {
+                            "type": "quiz",
+                            "title": "Quick Check: Programming Fundamentals Basics",
+                            "questions": 5,
+                            "passing_score": 60
+                        }
+                    ],
+                    "resources": [
+                        {
+                            "type": "reading",
+                            "title": "Programming Fundamentals Fundamentals",
+                            "format": "PDF"
+                        },
+                        {
+                            "type": "practice",
+                            "title": "Programming Fundamentals Extra Practice",
+                            "difficulty": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "lesson_id": 2,
+                    "title": "Lesson 2: Core Principles of Programming Fundamentals",
+                    "duration_minutes": 30,
+                    "content_summary": "This lesson covers key aspects of Programming Fundamentals with focus on key methodologies and standard approaches.",
+                    "activities": [
+                        {
+                            "type": "video_tutorial",
+                            "title": "Understanding key methodologies and standard approaches",
+                            "duration_minutes": 10
+                        },
+                        {
+                            "type": "interactive_exercise",
+                            "title": "Practice with key methodologies and standard approaches",
+                            "problems": 7,
+                            "difficulty": "beginner"
+                        },
+                        {
+                            "type": "quiz",
+                            "title": "Quick Check: Programming Fundamentals Basics",
+                            "questions": 5,
+                            "passing_score": 60
+                        }
+                    ],
+                    "resources": [
+                        {
+                            "type": "reading",
+                            "title": "Programming Fundamentals Fundamentals",
+                            "format": "PDF"
+                        },
+                        {
+                            "type": "practice",
+                            "title": "Programming Fundamentals Extra Practice",
+                            "difficulty": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "lesson_id": 3,
+                    "title": "Lesson 3: Applying Programming Fundamentals",
+                    "duration_minutes": 30,
+                    "content_summary": "This lesson covers key aspects of Programming Fundamentals with focus on practical applications and problem-solving techniques.",
+                    "activities": [
+                        {
+                            "type": "video_tutorial",
+                            "title": "Understanding practical applications and problem-solving techniques",
+                            "duration_minutes": 10
+                        },
+                        {
+                            "type": "interactive_exercise",
+                            "title": "Practice with practical applications and problem-solving techniques",
+                            "problems": 9,
+                            "difficulty": "beginner"
+                        },
+                        {
+                            "type": "quiz",
+                            "title": "Quick Check: Programming Fundamentals Basics",
+                            "questions": 5,
+                            "passing_score": 60
+                        },
+                        {
+                            "type": "practical_application",
+                            "title": "Apply Your Knowledge: App Development",
+                            "description": "Complete a real-world application using Programming Fundamentals.",
+                            "duration_minutes": 15
+                        }
+                    ],
+                    "resources": [
+                        {
+                            "type": "reading",
+                            "title": "Programming Fundamentals Fundamentals",
+                            "format": "PDF"
+                        },
+                        {
+                            "type": "practice",
+                            "title": "Programming Fundamentals Extra Practice",
+                            "difficulty": "beginner"
+                        }
+                    ]
+                }
+            ],
+            "assessment": {
+                "title": "Programming Fundamentals Mastery Assessment",
+                "passing_score": 70,
+                "question_count": 15,
+                "time_limit_minutes": 45,
+                "retake_allowed": true,
+                "formats": [
+                    "multiple_choice",
+                    "short_answer",
+                    "problem_solving"
+                ]
+            }
+        },
+        {
+            "module_id": 2,
+            "title": "Data Structures",
+            "description": "Learn the essential components of Data Structures with a focus on building a solid foundation.",
+            "duration_days": 7,
+            "lessons": [
+                {
+                    "lesson_id": 1,
+                    "title": "Lesson 1: Introduction to Data Structures",
+                    "duration_minutes": 30,
+                    "content_summary": "This lesson covers key aspects of Data Structures with focus on fundamental definitions and basic principles.",
+                    "activities": [
+                        {
+                            "type": "video_tutorial",
+                            "title": "Understanding fundamental definitions and basic principles",
+                            "duration_minutes": 10
+                        },
+                        {
+                            "type": "interactive_exercise",
+                            "title": "Practice with fundamental definitions and basic principles",
+                            "problems": 5,
+                            "difficulty": "beginner"
+                        },
+                        {
+                            "type": "quiz",
+                            "title": "Quick Check: Data Structures Basics",
+                            "questions": 5,
+                            "passing_score": 60
+                        }
+                    ],
+                    "resources": [
+                        {
+                            "type": "reading",
+                            "title": "Data Structures Fundamentals",
+                            "format": "PDF"
+                        },
+                        {
+                            "type": "practice",
+                            "title": "Data Structures Extra Practice",
+                            "difficulty": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "lesson_id": 2,
+                    "title": "Lesson 2: Core Principles of Data Structures",
+                    "duration_minutes": 30,
+                    "content_summary": "This lesson covers key aspects of Data Structures with focus on key methodologies and standard approaches.",
+                    "activities": [
+                        {
+                            "type": "video_tutorial",
+                            "title": "Understanding key methodologies and standard approaches",
+                            "duration_minutes": 10
+                        },
+                        {
+                            "type": "interactive_exercise",
+                            "title": "Practice with key methodologies and standard approaches",
+                            "problems": 7,
+                            "difficulty": "beginner"
+                        },
+                        {
+                            "type": "quiz",
+                            "title": "Quick Check: Data Structures Basics",
+                            "questions": 5,
+                            "passing_score": 60
+                        }
+                    ],
+                    "resources": [
+                        {
+                            "type": "reading",
+                            "title": "Data Structures Fundamentals",
+                            "format": "PDF"
+                        },
+                        {
+                            "type": "practice",
+                            "title": "Data Structures Extra Practice",
+                            "difficulty": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "lesson_id": 3,
+                    "title": "Lesson 3: Applying Data Structures",
+                    "duration_minutes": 30,
+                    "content_summary": "This lesson covers key aspects of Data Structures with focus on practical applications and problem-solving techniques.",
+                    "activities": [
+                        {
+                            "type": "video_tutorial",
+                            "title": "Understanding practical applications and problem-solving techniques",
+                            "duration_minutes": 10
+                        },
+                        {
+                            "type": "interactive_exercise",
+                            "title": "Practice with practical applications and problem-solving techniques",
+                            "problems": 9,
+                            "difficulty": "beginner"
+                        },
+                        {
+                            "type": "quiz",
+                            "title": "Quick Check: Data Structures Basics",
+                            "questions": 5,
+                            "passing_score": 60
+                        },
+                        {
+                            "type": "practical_application",
+                            "title": "Apply Your Knowledge: Website Creation",
+                            "description": "Complete a real-world application using Data Structures.",
+                            "duration_minutes": 15
+                        }
+                    ],
+                    "resources": [
+                        {
+                            "type": "reading",
+                            "title": "Data Structures Fundamentals",
+                            "format": "PDF"
+                        },
+                        {
+                            "type": "practice",
+                            "title": "Data Structures Extra Practice",
+                            "difficulty": "beginner"
+                        }
+                    ]
+                }
+            ],
+            "assessment": {
+                "title": "Data Structures Mastery Assessment",
+                "passing_score": 70,
+                "question_count": 15,
+                "time_limit_minutes": 45,
+                "retake_allowed": true,
+                "formats": [
+                    "multiple_choice",
+                    "short_answer",
+                    "problem_solving"
+                ]
+            }
+        },
+        {
+            "module_id": 3,
+            "title": "Algorithms",
+            "description": "Learn the essential components of Algorithms with a focus on building a solid foundation.",
+            "duration_days": 7,
+            "lessons": [
+                {
+                    "lesson_id": 1,
+                    "title": "Lesson 1: Introduction to Algorithms",
+                    "duration_minutes": 30,
+                    "content_summary": "This lesson covers key aspects of Algorithms with focus on fundamental definitions and basic principles.",
+                    "activities": [
+                        {
+                            "type": "video_tutorial",
+                            "title": "Understanding fundamental definitions and basic principles",
+                            "duration_minutes": 10
+                        },
+                        {
+                            "type": "interactive_exercise",
+                            "title": "Practice with fundamental definitions and basic principles",
+                            "problems": 5,
+                            "difficulty": "beginner"
+                        },
+                        {
+                            "type": "quiz",
+                            "title": "Quick Check: Algorithms Basics",
+                            "questions": 5,
+                            "passing_score": 60
+                        }
+                    ],
+                    "resources": [
+                        {
+                            "type": "reading",
+                            "title": "Algorithms Fundamentals",
+                            "format": "PDF"
+                        },
+                        {
+                            "type": "practice",
+                            "title": "Algorithms Extra Practice",
+                            "difficulty": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "lesson_id": 2,
+                    "title": "Lesson 2: Core Principles of Algorithms",
+                    "duration_minutes": 30,
+                    "content_summary": "This lesson covers key aspects of Algorithms with focus on key methodologies and standard approaches.",
+                    "activities": [
+                        {
+                            "type": "video_tutorial",
+                            "title": "Understanding key methodologies and standard approaches",
+                            "duration_minutes": 10
+                        },
+                        {
+                            "type": "interactive_exercise",
+                            "title": "Practice with key methodologies and standard approaches",
+                            "problems": 7,
+                            "difficulty": "beginner"
+                        },
+                        {
+                            "type": "quiz",
+                            "title": "Quick Check: Algorithms Basics",
+                            "questions": 5,
+                            "passing_score": 60
+                        }
+                    ],
+                    "resources": [
+                        {
+                            "type": "reading",
+                            "title": "Algorithms Fundamentals",
+                            "format": "PDF"
+                        },
+                        {
+                            "type": "practice",
+                            "title": "Algorithms Extra Practice",
+                            "difficulty": "beginner"
+                        }
+                    ]
+                },
+                {
+                    "lesson_id": 3,
+                    "title": "Lesson 3: Applying Algorithms",
+                    "duration_minutes": 30,
+                    "content_summary": "This lesson covers key aspects of Algorithms with focus on practical applications and problem-solving techniques.",
+                    "activities": [
+                        {
+                            "type": "video_tutorial",
+                            "title": "Understanding practical applications and problem-solving techniques",
+                            "duration_minutes": 10
+                        },
+                        {
+                            "type": "interactive_exercise",
+                            "title": "Practice with practical applications and problem-solving techniques",
+                            "problems": 9,
+                            "difficulty": "beginner"
+                        },
+                        {
+                            "type": "quiz",
+                            "title": "Quick Check: Algorithms Basics",
+                            "questions": 5,
+                            "passing_score": 60
+                        },
+                        {
+                            "type": "practical_application",
+                            "title": "Apply Your Knowledge: Game Design",
+                            "description": "Complete a real-world application using Algorithms.",
+                            "duration_minutes": 15
+                        }
+                    ],
+                    "resources": [
+                        {
+                            "type": "reading",
+                            "title": "Algorithms Fundamentals",
+                            "format": "PDF"
+                        },
+                        {
+                            "type": "practice",
+                            "title": "Algorithms Extra Practice",
+                            "difficulty": "beginner"
+                        }
+                    ]
+                }
+            ],
+            "assessment": {
+                "title": "Algorithms Mastery Assessment",
+                "passing_score": 70,
+                "question_count": 15,
+                "time_limit_minutes": 45,
+                "retake_allowed": true,
+                "formats": [
+                    "multiple_choice",
+                    "short_answer",
+                    "problem_solving"
+                ]
+            }
+        }
+    ],
+    "final_project": {
+        "title": "Coding Synthesis Project",
+        "description": "Demonstrate your mastery of Coding concepts through a comprehensive project that integrates all the modules you've studied.",
+        "duration_days": 7,
+        "deliverables": [
+            "Written report",
+            "Visual presentation",
+            "Applied demonstration"
+        ],
+        "evaluation_criteria": [
+            "Comprehension of core concepts",
+            "Application of techniques",
+            "Creativity and originality",
+            "Presentation quality"
+        ],
+        "passing_score": 70
+    },
+    "completion": {
+        "certification": "Coding Proficiency Certificate",
+        "requirements": [
+            "Complete all module assessments with a minimum score of 70%",
+            "Submit and pass the final project with a minimum score of 70%",
+            "Attend at least 80% of the scheduled sessions"
+        ],
+        "rewards": [
+            "Digital certificate",
+            "Performance tier upgrade",
+            "100 achievement points",
+            "Coding Specialist badge"
+        ]
+    }
+}
